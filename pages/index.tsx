@@ -10,6 +10,7 @@ import Projects from '../components/Projects';
 import ContactMe from '../components/ContactMe';
 
 
+
 const Home: NextPage = () => {
   return (
     <div className='bg-[#242424] text-white h-screen snap-y snap-mandatory overflow-x-hidden overflow-y-scroll z-0 '>
