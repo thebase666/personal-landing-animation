@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 // import icon from '../images/hero-image.jpeg'
+import logo from '../images/1.jpg';
 
 type Props = {};
 
@@ -27,7 +28,7 @@ const About = (props: Props) => {
           //   once: true,
           // }}
           className='w-48 h-48 mt-10 mb-5 flex-shrink-0 rounded-full object-cover md:mb-0 md:rounded-lg md:w-64 md:h-64 md:mt-0 2xl:w-[500px] 2xl:h-[500px]'
-          src='https://media-exp1.licdn.com/dms/image/C5603AQFZToPBz0prGg/profile-displayphoto-shrink_800_800/0/1641456390004?e=1669248000&v=beta&t=-Cr-ngkkhjoTiXa5IrxVFqJ225ZpluCN_86AJ_eKKfg'
+          src={logo.src}
           // src={icon.src}
           alt='my portrait'
         />

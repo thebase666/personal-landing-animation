@@ -1,8 +1,8 @@
 import { Cursor, useTypewriter } from 'react-simple-typewriter';
 import Image from 'next/image';
 import Link from 'next/link';
-
 import BackgroundCircle from './BackgroundCircle';
+import logo from '../images/1.jpg';
 
 type Props = {};
 
@@ -19,7 +19,7 @@ const Hero = (props: Props) => {
         <BackgroundCircle />
         <Image
           className='relative object-cover mx-auto rounded-full'
-          src='https://media-exp1.licdn.com/dms/image/C5603AQFZToPBz0prGg/profile-displayphoto-shrink_800_800/0/1641456390004?e=1676505600&v=beta&t=E1cpTvMd8keBEqijRO5dmIJuKow7FpeoK2EDPMrKLvw'
+          src={logo}
           alt='my portrait'
           width={180}
           height={180}
