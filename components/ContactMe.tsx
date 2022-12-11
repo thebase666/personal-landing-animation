@@ -47,6 +47,14 @@ const ContactMe = (props: Props) => {
             <MdPhone className='w-7 h-7 text-[#F7AB0A] animate-pulse' />
             <p className='text-2xl'>+66-0966712286</p>
           </div>
+          <div className='flex items-center justify-center space-x-4'>
+            <MdPhone className='w-7 h-7 text-[#F7AB0A] animate-pulse' />
+            <p className='text-2xl'>+86-13811652753</p>
+          </div>
+          <div className='flex items-center justify-center space-x-4'>
+            <p className='text-2xl'>Wechat</p>
+            <p className='text-2xl'>13811652753</p>
+          </div>
 
 
 
