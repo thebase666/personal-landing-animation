@@ -19,7 +19,7 @@ const Hero = (props: Props) => {
         <BackgroundCircle />
         <Image
           className='relative object-cover mx-auto rounded-full'
-          src='https://media-exp1.licdn.com/dms/image/C5603AQFZToPBz0prGg/profile-displayphoto-shrink_800_800/0/1641456390004?e=1669248000&v=beta&t=-Cr-ngkkhjoTiXa5IrxVFqJ225ZpluCN_86AJ_eKKfg'
+          src='https://media-exp1.licdn.com/dms/image/C5603AQFZToPBz0prGg/profile-displayphoto-shrink_800_800/0/1641456390004?e=1676505600&v=beta&t=E1cpTvMd8keBEqijRO5dmIJuKow7FpeoK2EDPMrKLvw'
           alt='my portrait'
           width={180}
           height={180}
