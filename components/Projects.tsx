@@ -28,7 +28,7 @@ const Projects = (props: Props) => {
 
         <div className='relative w-full mx-5 md:mx-10 flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80'>
           <Project
-            demoUrl='https://insta-clone-ksmikdlvg-lizhuyao666-gmailcom.vercel.app/'
+            demoUrl='https://insta-clone-h1aulk3k7-lizhuyao666-gmailcom.vercel.app/'
             src='https://firebasestorage.googleapis.com/v0/b/insta-b6569.appspot.com/o/posts%2FJNZgtduK59vdMmnxGUTJ%2Fimage?alt=media&token=ac361734-2cb4-4142-b1a9-fda63ea2c0f1'
             alt='project six'
             title='Instagram Clone'
