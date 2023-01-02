@@ -57,7 +57,7 @@ const About = (props: Props) => {
           </p>
           <p className='text-sm md:text-base'>
             Skill set:
-            React, React Native, Next.js, Tailwind-css, Redux, Typescript, Git, Expo, Firebase, Graphql,  Google-api and cloud servers. Web3, blockchain, solidity, polkadot, nft, Defi, smart contract, Moralis, ethernaut and openzeppelin. Burpsuite, Sqlmap, Nmap, MSF and kali linux.
+            React, React Native, Next.js, Tailwind-css, Redux, Typescript, Framer motion, Git, Expo, Firebase, Graphql,  Google-api and cloud servers. Web3, blockchain, solidity, polkadot, nft, Defi, smart contract, Moralis, ethernaut and openzeppelin. Burpsuite, Sqlmap, Nmap, MSF and kali linux.
           </p>
         </motion.div>
       </div>

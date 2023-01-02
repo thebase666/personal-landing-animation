@@ -29,7 +29,7 @@ const Projects = (props: Props) => {
         <div className='relative w-full mx-5 md:mx-10 flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20 scrollbar-thin scrollbar-track-gray-400/20 scrollbar-thumb-[#F7AB0A]/80'>
           <Project
             demoUrl='https://insta-clone-ksmikdlvg-lizhuyao666-gmailcom.vercel.app/'
-            src='https://firebasestorage.googleapis.com/v0/b/insta-b6569.appspot.com/o/posts%2FgCRLCJrbabemdEWeisTd%2Fimage?alt=media&token=299b4f9c-21e8-4005-b8d4-e8a36351498a'
+            src='https://firebasestorage.googleapis.com/v0/b/insta-b6569.appspot.com/o/posts%2FJNZgtduK59vdMmnxGUTJ%2Fimage?alt=media&token=ac361734-2cb4-4142-b1a9-fda63ea2c0f1'
             alt='project six'
             title='Instagram Clone'
             description='Nextjs-Tailwind-Firebase'
@@ -42,18 +42,18 @@ const Projects = (props: Props) => {
             description='Nextjs-Tailwind-SuperGradient'
           />
           <Project
-            demoUrl='https://web3-nft-game-react-solidity.vercel.app/'
-            src='https://firebasestorage.googleapis.com/v0/b/insta-b6569.appspot.com/o/posts%2FGKMQ9sYQdu9h5ViZyU0R%2Fimage?alt=media&token=13f99a50-df95-4361-afc7-10b02dd5a312'
+            demoUrl='https://metaverse-aimation-framer-motion.vercel.app/'
+            src='https://firebasestorage.googleapis.com/v0/b/insta-b6569.appspot.com/o/posts%2FkzViEfOzvAIVfnmOPDid%2Fimage?alt=media&token=5574f96a-1961-4b27-affe-9fb68146cfd7'
             alt='project two'
-            title='Web3 Nft Game'
-            description='Web3-Nft-Game-React-Solidity'
+            title='Metaverse'
+            description='Metaverse-Landing-Nextjs13-FramerMotion'
           />
           <Project
-            demoUrl='https://nft-react-nextjs-thirdweb.vercel.app/'
-            src='https://firebasestorage.googleapis.com/v0/b/insta-b6569.appspot.com/o/posts%2FnNSmp9hFWYAs0YcwCzRG%2Fimage?alt=media&token=82f24937-2d22-4b3d-bfd2-b001688aa156'
+            demoUrl='https://hulu-react-one.vercel.app/'
+            src='https://firebasestorage.googleapis.com/v0/b/insta-b6569.appspot.com/o/posts%2F9N3jSgnbp0W40VgvRRWL%2Fimage?alt=media&token=6e42a82f-0997-49b7-ad42-071a8d105ea5'
             alt='project three'
-            title='Nft Drop'
-            description='nft-react-nextjs-thirdweb'
+            title='Hulu-Clone'
+            description='Hulu-Clone-Movie-Api'
           />
           <Project
             demoUrl='https://expo.dev/@heliummixoptimal/rn-travel-app'
